@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\57304\\Desktop\\MQTT\\BD\\MQTT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|c:\\users\\57304\\desktop\\mqtt\\bd\\mqtt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|c:\\users\\57304\\desktop\\mqtt\\bd\\mqtt\\logica\\mqttlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|solutionrelative:logica\\mqttlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|c:\\users\\57304\\desktop\\mqtt\\bd\\mqtt\\modelo\\mqtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|solutionrelative:modelo\\mqtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|C:\\Users\\57304\\Desktop\\MQTT\\BD\\MQTT\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\MQTT\\BD\\MQTT\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\MQTT\\BD\\MQTT\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:44:51.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\MQTT\\BD\\MQTT\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\MQTT\\BD\\MQTT\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:44:45.527Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mqtt.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\MQTT\\BD\\MQTT\\Modelo\\Mqtt.cs",
+              "RelativeDocumentMoniker": "Modelo\\Mqtt.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\MQTT\\BD\\MQTT\\Modelo\\Mqtt.cs",
+              "RelativeToolTip": "Modelo\\Mqtt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:44:22.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MqttLogica.cs",
+              "DocumentMoniker": "C:\\Users\\57304\\Desktop\\MQTT\\BD\\MQTT\\Logica\\MqttLogica.cs",
+              "RelativeDocumentMoniker": "Logica\\MqttLogica.cs",
+              "ToolTip": "C:\\Users\\57304\\Desktop\\MQTT\\BD\\MQTT\\Logica\\MqttLogica.cs",
+              "RelativeToolTip": "Logica\\MqttLogica.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAwwJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:33:29.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
