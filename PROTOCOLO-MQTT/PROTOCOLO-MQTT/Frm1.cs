@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*
-Julian Manrique Cuervo
+Julian Manrique Cuervo, Alexander Vargas Mejia, Jonnier Grajales Alzate 
 3/11/2024
 */
 using uPLibrary.Networking.M2Mqtt;
