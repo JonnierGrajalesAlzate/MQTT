@@ -61,7 +61,6 @@ D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT\MQTT\obj\Debug
 D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT\MQTT\obj\Debug\PROCESO_CRUD.pdb
 D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT\MQTT\bin\Debug\M2Mqtt.Net.dll
 D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT\MQTT\bin\Debug\M2Mqtt.Net.pdb
-D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT\MQTT\bin\Debug\Modelo\mydatabse.db
 D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT\MQTT\obj\Debug\PROCESO_CRUD.frm_CRUD.resources
 D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT\MQTT\obj\Debug\PROCESO_CRUD.Vista.frmMenu.resources
 D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT\MQTT\obj\Debug\PROCESO_CRUD.Vista.frmMQTTCliente.resources

@@ -12,12 +12,12 @@ namespace PROCESO_CRUD.Modelo
         private static readonly string lcCadena = ConfigurationManager.ConnectionStrings["cadena"].ConnectionString;
         private static MqttLogica instancia = null;
         private M2MqttClientWrapper poMqttClientWrapper;
-
+        private string psClienteID = "UniqueClienteID";
         //Constructor privado para Singleton y configuración del cliente MQTT
         private MqttLogica()
         {
             poMqttClientWrapper = new M2MqttClientWrapper("127.0.0.1");
-            poMqttClientWrapper.Connect("clienteID");
+            poMqttClientWrapper.Connect(psClienteID);
         }
 
         public static MqttLogica Instancia
@@ -40,8 +40,10 @@ namespace PROCESO_CRUD.Modelo
                 try
                 {
                     oConexion.Open();
-                    string lcQuery = "insert into Registro (mensaje) values (@mensaje)";
+                    string lcQuery = "insert into Registros (ClienteID,Tema,Mensaje) values (@clienteID,@tema,@mensaje)";
                     SQLiteCommand oCmd = new SQLiteCommand(lcQuery, oConexion);
+                    oCmd.Parameters.Add(new SQLiteParameter("@clienteID", obj.pcClienteID));
+                    oCmd.Parameters.Add(new SQLiteParameter("@tema", obj.pcTema));
                     oCmd.Parameters.Add(new SQLiteParameter("@mensaje", obj.pcMensaje));
                     oCmd.CommandType = System.Data.CommandType.Text;
 
@@ -72,7 +74,7 @@ namespace PROCESO_CRUD.Modelo
                 try
                 {
                     oConexion.Open();
-                    string lcQuery = "update Registro set mensaje=@mensaje where id=@pnId";
+                    string lcQuery = "update Registros set mensaje=@mensaje where id=@pnId";
                     SQLiteCommand oCmd = new SQLiteCommand(lcQuery, oConexion);
                     oCmd.Parameters.Add(new SQLiteParameter("@pnId", obj.pnId));
                     oCmd.Parameters.Add(new SQLiteParameter("@mensaje", obj.pcMensaje));
@@ -106,7 +108,7 @@ namespace PROCESO_CRUD.Modelo
                 try
                 {
                     Oconexion.Open();
-                    string lcQuery = "delete from Registro where id=@pnId";
+                    string lcQuery = "delete from Registros where id=@pnId";
                     SQLiteCommand oCmd = new SQLiteCommand(lcQuery, Oconexion);
                     oCmd.Parameters.Add(new SQLiteParameter("@pnId", obj.pnId));
                     oCmd.CommandType = System.Data.CommandType.Text;
@@ -139,7 +141,7 @@ namespace PROCESO_CRUD.Modelo
                 try
                 {
                     Oconexion.Open();
-                    string lcQuery = "SELECT id, mensaje FROM Registro";
+                    string lcQuery = "SELECT ID, ClienteID, Tema, Mensaje FROM Registros";
                     SQLiteCommand oCmd = new SQLiteCommand(lcQuery, Oconexion);
                     oCmd.CommandType = System.Data.CommandType.Text;
 
@@ -147,16 +149,18 @@ namespace PROCESO_CRUD.Modelo
                     {
                         while (oDataReader.Read())
                         {
-                            Registro mqtt = new Registro();
-                            mqtt.pnId = oDataReader["id"] != DBNull.Value ? Convert.ToInt32(oDataReader["id"]) : 0;
-                            mqtt.pcMensaje = oDataReader["mensaje"] != DBNull.Value ? oDataReader["mensaje"].ToString() : string.Empty;
-                            oLista.Add(mqtt);
+                            Registro oRegistro = new Registro();
+                            oRegistro.pnId = oDataReader["ID"] != DBNull.Value ? Convert.ToInt32(oDataReader["ID"]) : 0;
+                            oRegistro.pcMensaje = oDataReader["ClienteID"] != DBNull.Value ? oDataReader["ClienteID"].ToString() : string.Empty;
+                            oRegistro.pcMensaje = oDataReader["Tema"] != DBNull.Value ? oDataReader["Tema"].ToString() : string.Empty;
+                            oRegistro.pcMensaje = oDataReader["Mensaje"] != DBNull.Value ? oDataReader["Mensaje"].ToString() : string.Empty;
+                            oLista.Add(oRegistro);
                         }
                     }
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show($"Error al listar Mensaje MQTT: {ex.Message}");
+                    MessageBox.Show($"Error al listar Mensajes MQTT: {ex.Message}");
                 }
             }
 
