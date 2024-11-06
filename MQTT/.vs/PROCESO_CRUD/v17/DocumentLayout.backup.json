@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\vista\\frmmqttcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|solutionrelative:vista\\frmmqttcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\vista\\frmmqttcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|solutionrelative:vista\\frmmqttcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|d:\\proyectos\\github proyectos\\herramientas de programacion 2\\mqtt\\mqtt\\modelo\\mqtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|solutionrelative:modelo\\mqtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\vista\\frmcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|solutionrelative:vista\\frmcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|d:\\proyectos\\github proyectos\\herramientas de programacion 2\\mqtt\\mqtt\\modelo\\mqttlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|solutionrelative:modelo\\mqttlogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\vista\\frmmqttcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|solutionrelative:vista\\frmmqttcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\modelo\\mqtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|solutionrelative:modelo\\mqtt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87BA743F-2DE8-461D-8931-D7AD82E2DA8E}|PROCESO_CRUD.csproj|D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\vista\\frmcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Mqtt.cs",
-              "DocumentMoniker": "D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\Modelo\\Mqtt.cs",
-              "RelativeDocumentMoniker": "Modelo\\Mqtt.cs",
-              "ToolTip": "D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\Modelo\\Mqtt.cs",
-              "RelativeToolTip": "Modelo\\Mqtt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T17:48:28.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frmCRUD.cs [Design]",
               "DocumentMoniker": "D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\Vista\\frmCRUD.cs",
               "RelativeDocumentMoniker": "Vista\\frmCRUD.cs",
@@ -63,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "frmMQTTCliente.cs",
               "DocumentMoniker": "D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\Vista\\frmMQTTCliente.cs",
               "RelativeDocumentMoniker": "Vista\\frmMQTTCliente.cs",
@@ -76,7 +67,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Mqtt.cs",
+              "DocumentMoniker": "D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\Modelo\\Mqtt.cs",
+              "RelativeDocumentMoniker": "Modelo\\Mqtt.cs",
+              "ToolTip": "D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\Modelo\\Mqtt.cs",
+              "RelativeToolTip": "Modelo\\Mqtt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:10:41.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCRUD.cs",
+              "DocumentMoniker": "D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\Vista\\frmCRUD.cs",
+              "RelativeDocumentMoniker": "Vista\\frmCRUD.cs",
+              "ToolTip": "D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\Vista\\frmCRUD.cs",
+              "RelativeToolTip": "Vista\\frmCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:44:51.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frmMQTTCliente.cs [Design]",
               "DocumentMoniker": "D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\Vista\\frmMQTTCliente.cs",
               "RelativeDocumentMoniker": "Vista\\frmMQTTCliente.cs",
@@ -88,13 +104,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MqttLogica.cs",
               "DocumentMoniker": "D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\Modelo\\MqttLogica.cs",
               "RelativeDocumentMoniker": "Modelo\\MqttLogica.cs",
               "ToolTip": "D:\\Proyectos\\GITHUB Proyectos\\Herramientas de programacion 2\\MQTT\\MQTT\\Modelo\\MqttLogica.cs",
               "RelativeToolTip": "Modelo\\MqttLogica.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAAI0AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T14:33:29.338Z",
               "EditorCaption": ""
