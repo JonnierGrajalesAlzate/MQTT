@@ -53,7 +53,7 @@
             // lblMensaje
             // 
             this.lblMensaje.AutoSize = true;
-            this.lblMensaje.Location = new System.Drawing.Point(96, 41);
+            this.lblMensaje.Location = new System.Drawing.Point(92, 41);
             this.lblMensaje.Name = "lblMensaje";
             this.lblMensaje.Size = new System.Drawing.Size(47, 13);
             this.lblMensaje.TabIndex = 1;
@@ -68,9 +68,9 @@
             // 
             // txtMensaje
             // 
-            this.txtMensaje.Location = new System.Drawing.Point(99, 57);
+            this.txtMensaje.Location = new System.Drawing.Point(95, 57);
             this.txtMensaje.Name = "txtMensaje";
-            this.txtMensaje.Size = new System.Drawing.Size(280, 20);
+            this.txtMensaje.Size = new System.Drawing.Size(284, 20);
             this.txtMensaje.TabIndex = 4;
             // 
             // gbContenedor
@@ -151,6 +151,7 @@
             this.Controls.Add(this.gbContenedor);
             this.Name = "frm_CRUD";
             this.Text = "CRUD";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frm_CRUD_FormClosing);
             this.Load += new System.EventHandler(this.fmr_Panel_Load);
             this.gbContenedor.ResumeLayout(false);
             this.gbContenedor.PerformLayout();

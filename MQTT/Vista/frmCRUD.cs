@@ -113,5 +113,11 @@ namespace PROCESO_CRUD
                 mostrar_mensajes();
             }
         }
+
+        private void frm_CRUD_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            frmMenu frmMenu = new frmMenu();
+            frmMenu.Show();
+        }
     }
 }

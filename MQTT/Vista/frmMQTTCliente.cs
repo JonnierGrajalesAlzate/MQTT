@@ -62,7 +62,7 @@ namespace PROCESO_CRUD.Vista
 
         }
 
-        private void frmMQTTCliente_Load_1(object sender, EventArgs e)
+        private void frmMQTTCliente_Load(object sender, EventArgs e)
         {
             o_mqttClient.Connect("cliente_" + Guid.NewGuid().ToString());
             o_mqttClient.Subscribe("mqtt/cliente");
@@ -71,8 +71,10 @@ namespace PROCESO_CRUD.Vista
             o_mqttClient.MqttMsgPublishReceived += Client_MqttMsgPublishEventHandler;
         }
 
-        private void frmMQTTCliente_FormClosing_1(object sender, FormClosingEventArgs e)
+        private void frmMQTTCliente_FormClosing(object sender, FormClosingEventArgs e)
         {
+            frmMenu frmMenu = new frmMenu();
+            frmMenu.Show();
             o_mqttClient.Disconnect();
         }
     }

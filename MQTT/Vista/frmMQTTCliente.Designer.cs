@@ -122,8 +122,8 @@
             this.Controls.Add(this.grbDataRecived);
             this.Name = "frmMQTTCliente";
             this.Text = "MQTT Cliente";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmMQTTCliente_FormClosing_1);
-            this.Load += new System.EventHandler(this.frmMQTTCliente_Load_1);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmMQTTCliente_FormClosing);
+            this.Load += new System.EventHandler(this.frmMQTTCliente_Load);
             this.gpbDataSend.ResumeLayout(false);
             this.gpbDataSend.PerformLayout();
             this.grbDataRecived.ResumeLayout(false);
