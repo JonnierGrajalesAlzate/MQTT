@@ -40,3 +40,30 @@ C:\Users\57304\Desktop\MQTT\BD\MQTT\obj\Debug\PROCESO_CRUD.csproj.CoreCompileInp
 C:\Users\57304\Desktop\MQTT\BD\MQTT\obj\Debug\PROCESO_.ADF05DC7.Up2Date
 C:\Users\57304\Desktop\MQTT\BD\MQTT\obj\Debug\PROCESO_CRUD.exe
 C:\Users\57304\Desktop\MQTT\BD\MQTT\obj\Debug\PROCESO_CRUD.pdb
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\App.config
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\mydatabse.db
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\PROCESO_CRUD.exe.config
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\PROCESO_CRUD.exe
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\PROCESO_CRUD.pdb
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\EntityFramework.dll
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\System.Data.SQLite.dll
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\EntityFramework.xml
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\System.Data.SQLite.xml
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\obj\Debug\PROCESO_CRUD.csproj.AssemblyReference.cache
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\obj\Debug\PROCESO_CRUD.Properties.Resources.resources
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\obj\Debug\PROCESO_CRUD.csproj.GenerateResource.cache
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\obj\Debug\PROCESO_CRUD.csproj.CoreCompileInputs.cache
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\obj\Debug\PROCESO_.ADF05DC7.Up2Date
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\obj\Debug\PROCESO_CRUD.exe
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\obj\Debug\PROCESO_CRUD.pdb
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\Protocolo MQTT.dll
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\M2Mqtt.Net.dll
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\Protocolo MQTT.pdb
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\bin\Debug\M2Mqtt.Net.pdb
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\obj\Debug\PROCESO_CRUD.Vista.frmMenu.resources
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\obj\Debug\PROCESO_CRUD.Vista.frmMQTTCliente.resources
+D:\Proyectos\GITHUB Proyectos\Herramientas de programacion 2\MQTT-main\MQTT\MQTT\obj\Debug\PROCESO_CRUD.Vista.frmCRUD.resources

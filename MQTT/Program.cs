@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using PROCESO_CRUD.Vista;
 
 namespace PROCESO_CRUD
 {
@@ -16,7 +17,7 @@ namespace PROCESO_CRUD
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new fmr_Panel());
+            Application.Run(new frmMenu());
         }
     }
 }
